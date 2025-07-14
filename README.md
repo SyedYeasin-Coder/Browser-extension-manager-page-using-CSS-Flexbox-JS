@@ -1,6 +1,6 @@
-# Frontend Mentor - Recipe-page
+# Frontend Mentor - Browser extension manager UI
 
-![Design preview for the QR code component coding challenge](./design/preview.jpg)
+![Design preview for the QR code component coding challenge](./preview.jpg)
 
 ## Welcome! 👋
 
@@ -11,16 +11,19 @@ Hello! Thanks for cheking out this repository.
 It's a solution of a Junior challange called "Browser extension manager UI" made by Frontend Mentor.
 
 Here is the link of the challange-
-https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
+
+[https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp]()
 
 Here is the solution site url-
-https://syedyeasin-coder.github.io/Recipe-page/
+[https://syedyeasin-coder.github.io/Browser-extension-manager-page-using-CSS-Flexbox-JS/](https://syedyeasin-coder.github.io/Browser-extension-manager-page-using-CSS-Flexbox-JS/)
 
 ## Built with
 
 -HTML
 
 -CSS Flexbox
+
+-JS
 
 ## Author
 
